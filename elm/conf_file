@@ -1,0 +1,6 @@
+gridSize :(4,5)
+cellCoins :[(2,3,4)]
+initialRobotPositions : [(2,3)]
+gridCellSize: 50
+gridCellColor: (R,G,B)
+gridBorderColor: (R,G,B)
